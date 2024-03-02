@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akash Chauha, a full-time developer 👨‍💻 working since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Backend JavaScript]([https://github.com/meachauhan/BackendProject])
   
 
 - 🌱 I’m currently learning Google Cloud DevOps  
@@ -94,18 +94,11 @@
 <br/>  
 
 
-## Recent Blog Posts  
-\
 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=meachauhan&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
-<br />
 
 
