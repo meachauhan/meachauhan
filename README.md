@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Akash Chauha, a full-time developer 👨‍💻 working since 2021 🚀</div>  
+### <div align="center">I'm Akash Chauhan, a full-time developer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Backend JavaScript]([https://github.com/meachauhan/BackendProject])
   
 
-- 🌱 I’m currently learning Google Cloud DevOps  
+- 🌱 I’m currently learning Google and Azure Cloud DevOps  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
